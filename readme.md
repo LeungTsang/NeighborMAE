@@ -1,5 +1,6 @@
 This is the code repository for our CVPR 2026 Paper: 
 
+
 🌍 NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders
 
 Liang Zeng, Valerio Marsocci, Wufan Zhao, Andrea Nascetti, Maarten Vergauwen
