@@ -1,7 +1,7 @@
 This is the code repository for our CVPR 2026 Paper: 
 
 
-## 🌍 NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders
+### 🌍 NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders
 
 Liang Zeng, Valerio Marsocci, Wufan Zhao, Andrea Nascetti, Maarten Vergauwen
 
@@ -10,7 +10,7 @@ Liang Zeng, Valerio Marsocci, Wufan Zhao, Andrea Nascetti, Maarten Vergauwen
 NeighborMAE is a novel self-supervised learning framework for Earth Observation (EO) imagery that extends Masked Autoencoders (MAE) by explicitly modeling spatial dependencies between neighboring images.
 
 
-### Models
+### 🤗 Models
 
 <table><tbody>
 <!-- START TABLE -->
@@ -19,7 +19,7 @@ NeighborMAE is a novel self-supervised learning framework for Earth Observation 
 <th valign="bottom">ViT-Base</th>
 <th valign="bottom">ViT-Large</th>
 <!-- TABLE BODY -->
-<tr><td align="left">checkpoints</td>
+<tr><td align="left">Pretrained Backbone</td>
 <td align="center"><a href="https://drive.google.com/file/d/1YIun61QPHraCO-ro2skRyPPDoEnwYhaz/view?usp=sharing">download</a></td>
 <td align="center"><a href="https://drive.google.com/file/d/1t_ys1QwCcJZ7fmLslbRTGlV_6aaVKLYk/view?usp=sharing">download</a></td>
 </tr>
