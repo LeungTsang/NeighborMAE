@@ -134,7 +134,7 @@ eval_cls/eval_cls.py --seed <seed> --exp_name <experiment_name> --wandb_log \
 --base_lr 1e-3 --min_lr 1e-6 --epochs 20 --batch_size 128 \
 --img_size 224 --patch_size 16 --in_chans 3 --aspect_ratio 0.75 --crop_scale 0.2 1.0 \
 --wd 0.05 --betas 0.9 0.999 --fp16  --warmup_ratio 0.05 \
---global_pool avg --mixup 0.8 --cutmix 1.0 --drop_path 0.2 --layer_decay 0.75 \
+--global_pool avg --mixup 0.8 --cutmix 1.0 --drop_path 0.2 --layer_decay 0.75 --lrd \
 --embed_dim 1024 --depth 24 --num_heads 16
 
 ```
