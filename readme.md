@@ -16,12 +16,12 @@ NeighborMAE is a novel self-supervised learning framework for Earth Observation 
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom"></th>
-<th valign="bottom">ViT-Base</th>
-<th valign="bottom">ViT-Large</th>
+<th valign="bottom">ViT-Large-Checkpoint</th>
+<th valign="bottom">ViT-Large-Backbone-Only</th>
 <!-- TABLE BODY -->
 <tr><td align="left">Pretrained Backbone</td>
-<td align="center"><a href="https://drive.google.com/file/d/1YIun61QPHraCO-ro2skRyPPDoEnwYhaz/view?usp=sharing">download</a></td>
-<td align="center"><a href="https://drive.google.com/file/d/1t_ys1QwCcJZ7fmLslbRTGlV_6aaVKLYk/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1E2pUeifRb2OhInWfIHxoSTBH0MCVUXxC/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1NCCUGvJ-Gg22v3sE-5RBhc6xHt1uX_LU/view?usp=sharing">download</a></td>
 </tr>
 </tbody></table>
 
